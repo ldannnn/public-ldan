@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="title_activity_play_media_activity">play_media_activity</string>
+    <string name="title_activity_play_media">control_media</string>
+</resources>
